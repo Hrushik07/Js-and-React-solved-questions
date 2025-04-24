@@ -44,7 +44,7 @@ for (let i = 0; i < arr.length - 1; ) {
 
 console.log(arr);
 ```
-<details>
+</details>
 
 ---
 
